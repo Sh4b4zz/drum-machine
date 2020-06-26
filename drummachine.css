@@ -1,0 +1,74 @@
+body{
+background-color:black;
+}
+
+h2{
+font-family: 'Bungee Outline', cursive;
+text-align:center;
+color:white;
+}
+
+.drmmchn{
+display:grid;
+align-items:center;
+justify-content:center;
+}
+
+table{
+margin-top:20px;
+border:1px solid white;
+}
+
+.pad1:hover{
+border:2px solid blue;
+}
+
+.pad2:hover{
+border:2px solid blue;
+}
+
+.pad3:hover{
+border:2px solid blue;
+}
+
+.pad4:hover{
+border:2px solid red;
+}
+
+.pad5:hover{
+border:2px solid red;
+}
+
+.pad6:hover{
+border:2px solid red;
+}
+
+.pad7:hover{
+border:2px solid green;
+}
+
+.pad8:hover{
+border:2px solid green;
+}
+
+.pad9:hover{
+border:2px solid green;
+}
+
+td{
+background-color:rgb(192,192,192,.4);
+height:150px;
+width:800px;
+border:1px solid white;
+border-radius:8px;
+}
+
+button{
+background-color:rgb(192,192,192,.4);
+border:none;
+outline:none;
+}
+
+audio{
+display:none;
+}
